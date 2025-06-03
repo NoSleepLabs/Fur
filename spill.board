@@ -1,0 +1,15 @@
+# spill.board
+
+id: t
+title: Test
+description: Shitposting, dev tests, random garbage. Nothing matters here.
+rules:
+  - There are no rules.
+tags:
+  - test
+  - dev
+  - shitpost
+settings:
+  bump_limit: 9999
+  image_limit: 99
+  default_view: classic
