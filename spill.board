@@ -1,15 +1,20 @@
 # spill.board
 
-id: t
-title: Test
-description: Shitposting, dev tests, random garbage. Nothing matters here.
+id: f
+title: Furry
+description: Artwork and discussion for furries. SFW only.
 rules:
-  - There are no rules.
+  - No IRL content.
+  - No NSFW. Use a separate board for that.
+  - Keep posts on-topic (furry-related).
+  - No spam or flooding.
 tags:
-  - test
-  - dev
-  - shitpost
+  - art
+  - sfw
+  - request
+  - oc
+  - discussion
 settings:
-  bump_limit: 9999
-  image_limit: 99
-  default_view: classic
+  bump_limit: 250
+  image_limit: 5
+  default_view: catalog
