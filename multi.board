@@ -1,8 +1,19 @@
 # multi.board
 
 [board1]
-id = Piracy
-name = Piracy
+id = f
+name = furry
+description = Board for furry-related discussion and art
+tags = anthro, fursona, art
+nsfw = false
+threads_per_page = 20
+max_file_size_mb = 8
+allowed_file_types = jpg,png,gif
+custom_rules = No spam, be respectful
+
+[board2]
+id = piracy
+name = piracy
 description = Discussions related to piracy, cracked software, and warez
 tags = piracy, cracked, warez, software
 nsfw = false
@@ -12,4 +23,13 @@ allowed_file_types = jpg,png,gif
 custom_rules = No nsfw
 No Gore
 
-
+[board3]
+id = gmd
+name = game dev
+description = For game development talk, tools, and assets
+tags = gamedev, unity, unreal, assets, programming
+nsfw = false
+threads_per_page = 25
+max_file_size_mb = 15
+allowed_file_types = jpg,png,gif,zip,rar
+custom_rules = No piracy, keep discussions constructive
