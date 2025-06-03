@@ -1,0 +1,15 @@
+# multi.board
+
+[board1]
+id = Piracy
+name = Piracy
+description = Discussions related to piracy, cracked software, and warez
+tags = piracy, cracked, warez, software
+nsfw = false
+threads_per_page = 20
+max_file_size_mb = 69
+allowed_file_types = jpg,png,gif
+custom_rules = No nsfw
+No Gore
+
+
